@@ -1,0 +1,9 @@
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\bin\Debug\testTextBox.exe
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\bin\Debug\testTextBox.pdb
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testWord.csprojAssemblyReference.cache
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testWord.csproj.ResolveComReference.cache
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testWord.frmMain.resources
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testTextBox.Properties.Resources.resources
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testWord.csproj.GenerateResource.cache
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testTextBox.exe
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWord\testWord\obj\Debug\testTextBox.pdb

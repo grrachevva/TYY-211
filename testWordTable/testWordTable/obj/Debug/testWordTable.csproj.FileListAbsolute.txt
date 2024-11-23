@@ -1,0 +1,18 @@
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\bin\Debug\testWordTable.exe
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\bin\Debug\testWordTable.pdb
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.csprojAssemblyReference.cache
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.csproj.ResolveComReference.cache
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.frmMain.resources
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.Properties.Resources.resources
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.csproj.GenerateResource.cache
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.exe
+C:\Users\Сафронов А И\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.pdb
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\bin\Debug\testWordTable.exe
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\bin\Debug\testWordTable.pdb
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.csprojAssemblyReference.cache
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.csproj.ResolveComReference.cache
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.frmMain.resources
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.Properties.Resources.resources
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.csproj.GenerateResource.cache
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.exe
+c:\Users\flash\Documents\SubjectProgrammingMethods\Программы\testWordTable\testWordTable\obj\Debug\testWordTable.pdb
