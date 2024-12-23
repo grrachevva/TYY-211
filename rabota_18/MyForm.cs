@@ -4,7 +4,6 @@ using System.Windows.Forms;
 using Excel = Microsoft.Office.Interop.Excel;
 using System.IO;
 using System.Linq;
-using ExcelExtension;
 
 namespace MyExcel
 {
@@ -15,14 +14,14 @@ namespace MyExcel
             InitializeComponent();
         }
 
-        private void buttonPreview_Click(object sender, System.EventArgs e)
+        private void buttonPreview_Click(object sender, EventArgs e)
         {
             string[] data = File.ReadAllText("DefaultData.csv").Split(',');
             for (int i = 0; i < data.Length; i += 9)
                 dataGridViewPreview.Rows.Add(data.Skip(i).Take(i + 9).ToArray());
         }
 
-        private void buttonExport_Click(object sender, System.EventArgs e)
+        private void buttonExport_Click(object sender, EventArgs e)
         {
             Excel.Application app = new Excel.Application();
             app.Visible = false;

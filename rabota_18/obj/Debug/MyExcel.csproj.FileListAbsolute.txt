@@ -48,3 +48,16 @@ D:\MyExcel\rabota_18\bin\Debug\MyExcel.pdb
 D:\MyExcel\rabota_18\bin\Debug\ExcelExtension.dll
 D:\MyExcel\rabota_18\bin\Debug\ExcelHelpers.dll
 D:\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.Up2Date
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.csproj.AssemblyReference.cache
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.MyForm.resources
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.Properties.Resources.resources
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.csproj.GenerateResource.cache
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.csproj.CoreCompileInputs.cache
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.exe
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.pdb
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\bin\Debug\DefaultData.csv
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\bin\Debug\MyExcel.exe.config
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\bin\Debug\MyExcel.exe
+c:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\bin\Debug\MyExcel.pdb
+C:\Users\flash\Documents\GIT\ТУУ-211 (2024)\Грачёва\TYY-211\rabota_18\obj\Debug\MyExcel.csproj.Up2Date
