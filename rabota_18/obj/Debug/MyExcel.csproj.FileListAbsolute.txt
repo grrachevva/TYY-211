@@ -1,0 +1,50 @@
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\bin\Debug\MyExcel.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\bin\Debug\MyExcel.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.csproj.AssemblyReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.MyForm.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.Properties.Resources.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.csproj.GenerateResource.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.csproj.CoreCompileInputs.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\obj\Debug\MyExcel.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Natasha\MyExcel\bin\Debug\DefaultData.csv
+C:\Users\User\Desktop\MyExcel\MyExcel\bin\Debug\DefaultData.csv
+C:\Users\User\Desktop\MyExcel\MyExcel\bin\Debug\MyExcel.exe.config
+C:\Users\User\Desktop\MyExcel\MyExcel\bin\Debug\MyExcel.exe
+C:\Users\User\Desktop\MyExcel\MyExcel\bin\Debug\MyExcel.pdb
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.MyForm.resources
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.Properties.Resources.resources
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.exe
+C:\Users\User\Desktop\MyExcel\MyExcel\obj\Debug\MyExcel.pdb
+C:\Users\User\Desktop\MyExcel\rabota_18\bin\Debug\DefaultData.csv
+C:\Users\User\Desktop\MyExcel\rabota_18\bin\Debug\MyExcel.exe.config
+C:\Users\User\Desktop\MyExcel\rabota_18\bin\Debug\MyExcel.exe
+C:\Users\User\Desktop\MyExcel\rabota_18\bin\Debug\MyExcel.pdb
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.MyForm.resources
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.Properties.Resources.resources
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.exe
+C:\Users\User\Desktop\MyExcel\rabota_18\obj\Debug\MyExcel.pdb
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.AssemblyReference.cache
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.MyForm.resources
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.Properties.Resources.resources
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.GenerateResource.cache
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.CoreCompileInputs.cache
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.exe
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.pdb
+D:\MyExcel\rabota_18\bin\Debug\DefaultData.csv
+D:\MyExcel\rabota_18\bin\Debug\MyExcel.exe.config
+D:\MyExcel\rabota_18\bin\Debug\MyExcel.exe
+D:\MyExcel\rabota_18\bin\Debug\MyExcel.pdb
+D:\MyExcel\rabota_18\bin\Debug\ExcelExtension.dll
+D:\MyExcel\rabota_18\bin\Debug\ExcelHelpers.dll
+D:\MyExcel\rabota_18\obj\Debug\MyExcel.csproj.Up2Date
